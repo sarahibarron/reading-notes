@@ -9,6 +9,8 @@ Tech Educators - Full Stack Bootcamp 2023
 - Persisting when faced with obstacles
 
 	~~I can't do it~~ **I'm still learning. I'll keep trying.**
-	~~I can't do it~~ **I'm still learning. I'll keep trying.**
+
+	~~I'm not good at this~~ **This may take some time and effort.**
+
 	~~I give up~~ **I can try a different strategy.**
 
