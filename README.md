@@ -8,7 +8,7 @@ Tech Educators - Full Stack Bootcamp 2023
 - Learning from criticism
 - Persisting when faced with obstacles
 
- 
+  
  
 	~~I can't do it.~~ **I'm still learning. I'll keep trying.**
 
