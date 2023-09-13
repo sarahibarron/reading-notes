@@ -4,7 +4,13 @@ Tech Educators - Full Stack Bootcamp 2023
 Hi! My name is Sarah (she/her) 🙂 I'm from Newcastle and I like Guinness and crisps. 
 [Here's my Github portfolio page](https://github.com/sarahibarron)
 
+____
 
+## Contents
+- [Markdown 😎](https://sarahibarron.github.io/reading-notes/markdown)
+- [Revisions and the Cloud☁️](https://sarahibarron.github.io/reading-notes/markdown)
+
+____
 
 ### Growth Mindset 🧠
 'Growth Mindset' is the concept that intelligence is not static and can be developed. Examples of how I can practice 'Growth Mindset' include; 
