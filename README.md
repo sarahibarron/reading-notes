@@ -8,7 +8,7 @@ ____
 
 ## Contents
 - [Markdown 😎](https://sarahibarron.github.io/reading-notes/markdown)
-- [Revisions and the Cloud☁️](https://sarahibarron.github.io/reading-notes/markdown)
+- [Revisions and the Cloud☁️](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
 
 ____
 
