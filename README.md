@@ -7,8 +7,15 @@ Hi! My name is Sarah (she/her) 🙂 I'm from Newcastle and I like Guinness and c
 ____
 
 ## Contents
-- [Markdown 😎](https://sarahibarron.github.io/reading-notes/markdown)
-- [Revisions and the Cloud☁️](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+01. [Markdown 😎](https://sarahibarron.github.io/reading-notes/markdown)
+02. [The Coder's Computer 🖥️](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+03. [Revisions and the Cloud☁️](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+04. [Structure web pages with HTML 📃](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+05. [Design web pages with CSS 🎨](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+06. [Dynamic web pages with JavaScript 💃](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+07. [Programming with JavaScript 🕶️](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+08. [Operators and Loops ➰](https://sarahibarron.github.io/reading-notes/revisions-and-the-cloud)
+
 
 ____
 
